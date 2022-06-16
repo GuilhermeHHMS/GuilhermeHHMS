@@ -1,7 +1,7 @@
 ## Saudações, visitante 👋
 
 
-
+### Um pouco sobre mim...
 
 - Atualmente estudando Ciencia da Computação e trabalhando em um projeto pessoal.
 - Estudando Dart e Flutter.
