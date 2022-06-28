@@ -6,7 +6,6 @@
 - Atualmente estudando Ciencia da Computação e trabalhando em um projeto pessoal.
 - Estudando Dart e Flutter.
 - Email para contato: guilhermehmarcondes@gmail.com
-- ele/dele.
 - Fun fact: Conheci a área da programação por puro acaso, enquanto eu procurava um jeito de fazer mods para Minecraft.
 
 
