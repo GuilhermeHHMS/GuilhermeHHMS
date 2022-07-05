@@ -14,7 +14,7 @@
 <br>
 <div>
   <h4><i>HELLO WORLD!</i></h4>
-  <a href="https://github.com/guilhermehms">
+  <a href="https://github.com/GuilhermeHHMS">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GuilhermeHHMS&hide=contribs,prs&show_icons=true&theme=merko">
 </div>
 <br>
