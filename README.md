@@ -23,6 +23,8 @@
   <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
 </div>
 <br>
+
+<p> Atualmente, estou trabalhando no projeto <em>'ControleVendas'.</em></p>
      
      
 
