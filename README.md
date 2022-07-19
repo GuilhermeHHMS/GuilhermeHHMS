@@ -24,7 +24,7 @@
 </div>
 <br>
 
-<p> Atualmente, estou trabalhando no projeto <em>'ControleVendas'.</em></p>
+
      
      
 
