@@ -3,7 +3,7 @@
 
 ### Um pouco sobre mim...
 
-- Atualmente estudando Ciencia da Computação e trabalhando em um projeto pessoal.
+- Atualmente estudando Ciencia da Computação e trabalhando no projeto ControleVendas.
 - Estudando Dart e Flutter.
 - Email para contato: guilhermehmarcondes@gmail.com
 - Fun fact: Conheci a área da programação por puro acaso, enquanto eu procurava um jeito de fazer mods para Minecraft.
