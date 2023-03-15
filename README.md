@@ -1,6 +1,8 @@
 ## Saudações, visitante 👋
 
-
+ <h3><b><i>"SE FOR DIFÍCIL EU FAÇO AGORA. SE FOR IMPOSSÍVEL, ME DÊ MAIS 5 MINUTOS"</i></b></h3>
+ <br>
+ 
 ### Um pouco sobre mim...
 
 - Atualmente estudando Análise e Desenvolvimento de Sistemas e trabalhando no projeto [ControleVendas](https://www.github.com/GuilhermeHHMS/ControleVendas).
@@ -29,7 +31,10 @@
      
 
   <h3> <i>Mais sobre mim...</i> </h3>
-     <p>Tenho 19 anos, gosto de tocar instrumentos musicais de todos os tipos, gosto de aprender coisas que vão me ajudar no dia a dia.<br>
-     Desde que conheci o universo da programação, comecei a ver o mundo de forma diferente. Gosto muito de games, e isso que me trouxe hoje para a profissão que escolhi para a minha vida.<br>
+     <p>Tenho 20 anos, gosto de tocar instrumentos musicais de todos os tipos. Gosto de criar ferramentas para me ajudar no dia a dia.<br>
+     Desde que conheci o universo da programação, comecei a ver o mundo de forma diferente. Gosto muito de games, e isso que me trouxe hoje para a profissão que desejo para a minha vida.<br>
      Comecei a programar por pura diversão. Adoro resolver desafios de lógica, e colocar todas as coisas que eu aprendo no dia a dia em prática.</p>
+  
+  <br> 
+ 
           
