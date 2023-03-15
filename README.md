@@ -1,6 +1,6 @@
 ## Saudações, visitante 👋
 
- <h3><b><i>"SE FOR DIFÍCIL EU FAÇO AGORA. SE FOR IMPOSSÍVEL, ME DÊ MAIS 5 MINUTOS"</i></b></h3>
+ <h3><b><i>"SE FOR DIFÍCIL, EU FAÇO AGORA. SE FOR IMPOSSÍVEL, ME DÊ MAIS 5 MINUTOS"</i></b></h3>
  <br>
  
 ### Um pouco sobre mim...
