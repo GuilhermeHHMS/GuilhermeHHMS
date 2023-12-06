@@ -32,7 +32,7 @@
   <h3> <i>Mais sobre mim...</i> </h3>
      <p>Tenho 21 anos, gosto de tocar instrumentos musicais de todos os tipos. Gosto de criar ferramentas para me ajudar no dia a dia.<br>
      Desde que conheci o universo da programação, comecei a ver o mundo de forma diferente. Gosto muito de games, e isso que me trouxe hoje para a profissão que desejo para a minha vida.<br>
-     Comecei a programar por pura diversão. Adoro resolver desafios de lógica, e colocar todas as coisas que eu aprendo no dia a dia em prática.</p>
+     Comecei a programar por pura diversão. Adoro resolver desafios de lógica, e colocar todas as coisas que eu aprendo no dia-a-dia, em prática.</p>
   
   <br> 
  
