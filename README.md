@@ -4,9 +4,9 @@
  
 ### Um pouco sobre mim...
 
-- Atualmente estudando Análise e Desenvolvimento de Sistemas e trabalhando no projeto [ControleVendas](https://www.github.com/GuilhermeHHMS/ControleVendas).
+- Atualmente estudando Análise e Desenvolvimento de Sistemas e trabalhando no projeto [Registradora de Lucro e Vendas (PDV)](https://play.google.com/store/apps/details?id=com.marcoplay.calculadora_app).
 - Estudando Dart e Flutter.
-- Email para contato: guilhermehmarcondes@gmail.com
+- Email para contato: guilhermehmarcondes@outlook.com
 - Fun fact: Conheci a área da programação por puro acaso, enquanto eu procurava um jeito de fazer mods para Minecraft.
 
 
